@@ -16,6 +16,5 @@ D:\Android\Github\FingerGame\FingerGame\Temp\bin\Debug\UnityEngine.xml
 D:\Android\Github\FingerGame\FingerGame\Temp\bin\Debug\UnityEditor.xml
 D:\Android\Github\FingerGame\FingerGame\Temp\bin\Debug\UnityEngine.UI.xml
 D:\Android\Github\FingerGame\FingerGame\Temp\bin\Debug\UnityEngine.Networking.xml
-D:\Android\Github\FingerGame\FingerGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 D:\Android\Github\FingerGame\FingerGame\obj\Debug\Assembly-CSharp.dll
 D:\Android\Github\FingerGame\FingerGame\obj\Debug\Assembly-CSharp.pdb
